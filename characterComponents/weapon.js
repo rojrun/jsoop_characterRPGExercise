@@ -14,9 +14,9 @@ class Weapon{
 		
 	}
 	generateAttackMessage(){
-		//blugeoning weapons swing
-		//slashing weapons slash
-		//piercing weapons stab
+		//blugeoning weapons swings
+		//slashing weapons slashes
+		//piercing weapons stabs
 	}
 	getData(){
 
