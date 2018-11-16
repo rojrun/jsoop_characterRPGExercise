@@ -7,7 +7,7 @@ class Wearable{
 	wear( wearer ){
 
 	}
-	remove(){
+	takeOff(){
 
 	}
 	getData(){

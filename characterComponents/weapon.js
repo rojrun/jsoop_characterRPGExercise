@@ -7,7 +7,7 @@ class Weapon{
 	wield( bearer ){
 
 	}
-	attack(){
+	use(){
 
 	}
 	remove(){
