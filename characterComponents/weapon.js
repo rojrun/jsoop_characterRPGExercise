@@ -14,7 +14,7 @@ class Weapon{
 		
 	}
 	generateAttackMessage(){
-		//blugeoning weapons swings
+		//bludgeoning weapons swings
 		//slashing weapons slashes
 		//piercing weapons stabs
 	}
