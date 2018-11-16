@@ -6,7 +6,7 @@ class Character{
 			strength: null,
 			dexterity: null,
 			constitution: null,
-			wisdom: null,
+			willpower: null,
 			intelligence: null,
 			charisma: null
 		}
