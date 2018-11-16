@@ -29,7 +29,8 @@ for(var statI = 0; statI < stats.length; statI++){
 }
 
 var stinkyFish = new Weapon('a day old herring', 'bludgeoning', 'squish', {count: 1, dice: 3}, 0);
-nad.equipWeapon( stinkyFish );
+message = nad.equipWeapon( stinkyFish );
+console.log(nad.name + ' ' + message);
 
 message = nad.attack( dan );
 console.log( message );
