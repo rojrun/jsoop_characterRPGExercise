@@ -1,3 +1,5 @@
+### The follow shows example output from the code
+
 Dan has a strength of 7
 Dan has a dexterity of 9
 Dan has a constitution of 15
