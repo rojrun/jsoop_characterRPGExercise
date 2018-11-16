@@ -1,7 +1,7 @@
 
 
 class Weapon{
-	constructor(name, type, damageStats, attackSound, weight){
+	constructor(name, type, attackSound, damageStats, weight){
 
 	}
 	wield( bearer ){
