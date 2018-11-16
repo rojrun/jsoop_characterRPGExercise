@@ -1,7 +1,7 @@
 
 
 class Character{
-	constructor(name, class){
+	constructor(name, charClass){
 		this.stats = {
 			strength: null,
 			dexterity: null,
