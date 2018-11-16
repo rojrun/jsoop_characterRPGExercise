@@ -10,7 +10,7 @@ for(var statI = 0; statI < stats.length; statI++){
 
 var shirt = new Wearable('t-shirt', 0, 'torso', .25);
 var pants = new Wearable('a pair of blue-jeans', 0, 'legs', 2);
-var fists = new Weapon('balled up fist', 'bludgeoning', 'wiff', {count: 1, dice: 3}, 0);
+var fists = new Weapon('a balled up fist', 'bludgeoning', 'wiff', {count: 1, dice: 3}, 0);
 
 var message = dan.wearItem( shirt );
 console.log(dan.name + ' ' + message);
